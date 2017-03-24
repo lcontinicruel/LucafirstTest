@@ -1,6 +1,0 @@
-SimpleCalculator
-==============
-
-This is SimpleCalculator.
-
-
